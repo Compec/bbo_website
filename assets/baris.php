@@ -1,0 +1,1 @@
+<video src="baris.mp4" controls style="width:100%; height:90%"></video>
