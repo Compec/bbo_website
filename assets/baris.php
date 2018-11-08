@@ -1,1 +1,1 @@
-<video src="baris.mp4" controls style="width:100%; height:90%"></video>
+<iframe src="https://www.youtube.com/embed/x_JetBcRyJ0" style="width:100%; height:90%"></iframe>
